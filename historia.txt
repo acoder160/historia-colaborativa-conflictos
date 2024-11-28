@@ -3,3 +3,5 @@ Aqui hay algo de texto de los conflictos humanos
 =======
 Un poco de la historia de los conflictos humanos
 >>>>>>> Stashed changes
+
+Absolutamente nada de la historia de los conflictos de la humanidad
